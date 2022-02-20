@@ -41,8 +41,6 @@
 <a href="https://heroku.com/deploy?template=https://github.com/abu146/abu_ser"><img align="center" src="FRK ESPORTS.jpg" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
-<a href="https://abuser1.yolasite.com/"><img src="FRK ESPORTS.jpg" alt="Visit Website" height="112" width="300" border="0"></a>
-
 ##
   <h3 align="center">JOIN OUR ESPORTS SCRIMS GROUP:</h3>
 <p align="center">
