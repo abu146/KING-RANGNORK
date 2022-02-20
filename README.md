@@ -49,5 +49,5 @@
 CLICK THIS LOGO TO JOIN OUR  GROUP🎗️
     <br>
 <br>
-  <a href=https://"chat.whatsapp.com/FPEGv0qh6agF3Gzmds2GwQ" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
+  <a href=https://"https://chat.whatsapp.com/FPEGv0qh6agF3Gzmds2GwQ" target="blank"><img align="center" src="FRK ESPORTS.jpg" alt="kyrie.baran" height="100" width="300" /></a>
 </p> 
