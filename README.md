@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
   <p align="center">
-<img src=FRK ESPORTS.jpg>
+<img src= "FRK ESPORTS".jpg>
 </p>
  </a>
 </p>
