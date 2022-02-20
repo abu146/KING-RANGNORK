@@ -38,7 +38,7 @@
 <a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/abu146/KING-RAGNORK"><img align="center" src="FRK ESPORTS.jpg" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/abu146/abu_ser"><img align="center" src="FRK ESPORTS.jpg" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
 <a href="https://abuser1.yolasite.com/"><img src="FRK ESPORTS.jpg" alt="Visit Website" height="112" width="300" border="0"></a>
